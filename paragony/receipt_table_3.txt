@@ -1,0 +1,11 @@
+=============================
+          RESTAURACJA        
+=============================
+Data: 2025-01-14 18:21:49
+Stolik nr: 3
+Kwota zamowienia: 838.00 PLN
+Typ platnosci: 
+Status zamowienia: 
+=============================
+Dziekujemy za wizyte!
+=============================

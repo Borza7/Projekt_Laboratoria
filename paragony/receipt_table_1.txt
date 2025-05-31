@@ -1,0 +1,11 @@
+=============================
+          RESTAURACJA        
+=============================
+Data: 2025-01-14 18:09:28
+Stolik nr: 1
+Kwota zamowienia: 0.00 PLN
+Typ platnosci: 
+Status zamowienia: 
+=============================
+Dziekujemy za wizyte!
+=============================
